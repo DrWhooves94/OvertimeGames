@@ -1963,7 +1963,8 @@ body {
   margin-bottom: 2rem;
 }
 .cid-qVP3avgCoh .team-item .item-image img {
-  width: 100%;
+  width: 105%;
+  border-radius: 50%;
 }
 .cid-qVP3avgCoh .team-item .item-name p {
   margin-bottom: 0;
